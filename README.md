@@ -1,8 +1,11 @@
+**Author:** Archit Agarwal  
+
 # Shape from Shading
 
 This project was part of the Inter IIT Bootcamp for Astronomy. 
 The problem statement is inspired from one of the problem statements on Bharatiya Antariksh Hackathon. 
-The latex report can be found in the doc section. 
+The latex report for solving the original problem descrbied in the BAH PS can be found in the doc section. 
+This project aims to provide a template for implementation of sfs on a simplified problem statement, one that involves frontal lighting and the assumption of a lambertian surface. 
 
 ---
 
