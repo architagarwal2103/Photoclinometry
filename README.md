@@ -1,7 +1,8 @@
 # Shape from Shading
 
-This work was part of a **C++ academic project**.  
-The original project handout (in **French**) can be found in the `doc` folder.
+This project was part of the Inter IIT Bootcamp for Astronomy. 
+The problem statement is inspired from one of the problem statements on Bharatiya Antariksh Hackathon. 
+The latex report can be found in the doc section. 
 
 ---
 
