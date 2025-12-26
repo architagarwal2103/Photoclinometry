@@ -52,9 +52,9 @@ The goal of this project was to build a **complete C++ pipeline**, rather than t
 
 Input image and reconstructed mesh:
 
-<img src="images/dragon_input.jpg" width="400">
+<img src="images/dragon_input.jpeg" width="400">
 
-<img src="images/dragon_output.jpg" width="400">
+<img src="images/dragon_output.jpeg" width="400">
 
 ---
 
